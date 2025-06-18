@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parprog4", "Parprog4\Parpro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parprog5", "Parprog5\Parprog5.csproj", "{F2A9666C-A566-4BD6-A5DB-E35E121C72EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parprog6", "Parprog6\Parprog6.csproj", "{405F24D7-F16D-40CD-8B13-87C1B03EAE16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{F2A9666C-A566-4BD6-A5DB-E35E121C72EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A9666C-A566-4BD6-A5DB-E35E121C72EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A9666C-A566-4BD6-A5DB-E35E121C72EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405F24D7-F16D-40CD-8B13-87C1B03EAE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405F24D7-F16D-40CD-8B13-87C1B03EAE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405F24D7-F16D-40CD-8B13-87C1B03EAE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405F24D7-F16D-40CD-8B13-87C1B03EAE16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
